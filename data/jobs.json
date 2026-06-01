@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "JMPVJAP9LHD5U",
+    "company": "HelioAI",
+    "role": "Frontend Engineer",
+    "platform": "Wellfound",
+    "link": "https://example.com",
+    "status": "saved",
+    "followup": "2026-06-05",
+    "notes": "",
+    "createdAt": "2026-06-01T18:20:31.978Z",
+    "updatedAt": "2026-06-01T18:20:31.984Z"
+  }
+]
